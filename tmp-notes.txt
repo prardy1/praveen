@@ -1,0 +1,12 @@
+
+
+Thank you all for joining the call, as discussed I have setup this call for 1 hour everyday till end of this month, however feel free to suggest and let we know if this time/duration/period of the call do not suit you.
+
+During further observations identified those 4 suggestions/enhancements/issues and raised a JIRA ticket, let me know if there are any clarifications needed.
+
+
+
+Just to add to the previous questions, I guess you would have already answered, I feel the videos are good. and if you can increase/elaborate content related to introduction of the product and where this will fit in the VISA eco system, and is it a new/backfill initiative and what are the inscope/out of scope of this product to start with and also with few more examples it may be more informative.
+
+
+I am synching with Bala on Scalable stage environment and working with dev team on the UI issues and tracking with them on daily basis. Apart from it syncing with Indra on Sysdig part and Starting interacting with Tigera team, had couple of calls and going thru it. 
